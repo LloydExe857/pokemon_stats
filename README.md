@@ -4,7 +4,7 @@ This program does some basic analysis of a dataset of over 700 Pokemon and their
 
 I wrote this program to help me better understand the concepts of data analysis and usage of pandas.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+If you want a little demo, watch this video!
 
 [Software Demo Video](http://youtube.link.goes.here)
 
